@@ -82,9 +82,9 @@ DATABASES = {
         'ENGINE': 'mysql.connector.django',
         'NAME': 'alzheimers_project',
         'USER': 'root',
-        'PASSWORD': '20011226',
+        'PASSWORD': 'elf25521234',
         'HOST': '127.0.0.1',
-        'PORT': '3306',
+        'PORT': '3307',
     }
 }
 
